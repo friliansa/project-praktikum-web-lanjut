@@ -1,5 +1,5 @@
 # Project Praktikum Web Lanjut
-Judul   : Sistem Informasi Penjualan<br>
+Judul   : Sistem Informasi Penjualan bernama <b>Gasskeun</b><br>
 
 # Anggota :
 <ul>
